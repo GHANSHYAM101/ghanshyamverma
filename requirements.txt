@@ -1,0 +1,9 @@
+reportlab
+fastapi
+uvicorn
+python-multipart
+opencv-python
+vosk
+pyaudio
+numpy
+Pillow
